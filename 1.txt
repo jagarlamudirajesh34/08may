@@ -1,7 +1,5 @@
-dfsdfdshgsdfgfdgdf
-g
-dfg
-df
-g
-df
-gdfgdfgdfgdf
+public class Sample{
+
+
+
+}
